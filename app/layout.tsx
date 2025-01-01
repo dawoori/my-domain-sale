@@ -30,13 +30,6 @@ export const metadata: Metadata = {
     description: '이 도메인을 판매하고 있습니다. 구매에 관심이 있으시면 연락 주세요. | This domain is for sale. Contact us if you are interested in purchasing.',
     images: ['https://asd.ad/twitter-image.jpg'],
   },
-  alternates: {
-    canonical: 'https://asd.ad',
-    languages: {
-      'ko-KR': '/ko',
-      'en-US': '/en',
-    },
-  },
   metadataBase: new URL('https://asd.ad'),
 }
 
