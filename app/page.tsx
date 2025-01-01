@@ -2,7 +2,6 @@
 
 import { useState } from 'react'
 import { Button } from "@/components/ui/button"
-import { Metadata } from 'next'
 
 // Note: Metadata export is removed as it's not supported in Client Components
 
